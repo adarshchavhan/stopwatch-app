@@ -1,4 +1,4 @@
 # counter-app
  To see this click below:
  
- 👉 https://adarshchavhan.github.io/counter-app/
+ 👉 https://adarshchavhan.github.io/stopwtch-app/
